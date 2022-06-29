@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778021.svg)](https://zenodo.org/record/6778021)
+
+
 # radiographic workflow evaluation
 Scripts and documents to quantify the quality of the current radiographic workflow for animal irradiation.
 
